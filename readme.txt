@@ -4,3 +4,7 @@ Git is a distributed vserion control system
 Git is free software.
 Git is a dirsjfkddkojfdljlajggjfdsg
 Git No kdfokjjcowrjltjatwk
+Git is a dridsdgerd
+Git is free software distributed under the GPL.
+Git has a mutable index called stage
+Git tarcks changes
